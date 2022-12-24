@@ -17,6 +17,7 @@ See "[Generalizing to Unseen Domains: A Survey on Domain Generalization](https:/
 
 - [PACS (Photo-Art-Cartoon-Sketch)](https://paperswithcode.com/dataset/pacs)
 - [WILDS](https://wilds.stanford.edu/): A benchmark of in-the-wild distribution shifts spanning diverse data modalities and applications, from tumor identification to wildlife monitoring to poverty mapping. 
+- [DomainNet](http://ai.bu.edu/M3SDA/)
 
 
 ## Misc. 
